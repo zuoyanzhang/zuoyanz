@@ -1,0 +1,59 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+== Zuoyan Zhang's  Homepage
+
+~~~
+Zuoyan Zhang (张作言) \n
+Master Student \n 
+
+State Key Laboratory of Mathematical Engineering and Advanced Computing \n
+Information Engineering University (IEU) \n
+
+E-mail: zhangzuoyan523@163.com \n
+\[[https://github.com/zuoyanzhang GitHub]\]  \[[https://www.semanticscholar.org/author/Zuoyan-Zhang/2222347707 Semantic Scholar]\]
+~~~
+
+== About me
+I am currently a master student at Information Engineering University. I received the bachelor's degree from Henan University of Technology in 2021.
+
+My research interests span programming languages and software engineering, especially include:
+- Floaint-point analysis
+- Fault localization
+- Program analysis and test
+
+==  Educations
+
+- *Information Engineering University*
+Master in State Key Laboratory of Mathematical Engineering and Advanced Computing, from September 2021 to June 2024 (Expected).
+
+- *Henan University of Technology*
+B.S. in School of Information Science and Engineering, from September 2017 to June 2021.
+
+==  Experiences
+
+- Research Intern in AI for Science Institude (BEIJING), from June 2023 to now.
+
+== Selected Publications 
+
+Note: \* for corresponding author, \# for equal contribution. \n 
+Please find my full list of publications in the following [https://www.semanticscholar.org/author/Zuoyan-Zhang/2222347707 Link].
+
+=== Conferences and Journals
+
+. *Eiffel: Inferring Input Ranges of Significant Floating-point Errors via Polynomial Extrapolation* \n
+  *Zuoyan Zhang*, Bei Zhou, Jiangwei Hao, Hongru Yang, Mengqi Cui, Yuchang Zhou, Guanghui Song, Fei Li, Jinchen Xu, Jie Zhao\*.\n
+   In proceddings of the 38th IEEE/ACM International Conference on Automated Software Engineering. (*ASE 2023*)(Accepted) \[CCF-A\].\n
+. *Hierarchical search algorithm for error detection in floating-point arithmetic expressions* \n
+  *Zuoyan Zhang*, Jinchen Xu, Jiangwei Hao, Yang Qu, Haotian He, Bei Zhou\*.\n
+  The Journal of Supercomputing. \[CCF-C\].\n
+  \[[https://link.springer.com/article/10.1007/s11227-023-05523-6 pdf]\]
+  \[[https://github.com/zuoyanzhang/HSED HSED]\]
+
+== Scholarship
+. First Class Academic Scholarship: 2022 in Information Engineering University
+. Second Class Academic Scholarship: 2023 in Information Engineering University
+
+== Useful Links
+Deadlines: [https://ccfddl.github.io/ ccf-ddl] \n
+CCF list: [https://ccf.atom.im/ ccf.atom.im]
+
+# [cv.pdf A brief cv].
