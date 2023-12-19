@@ -43,7 +43,8 @@ Please find my full list of publications in the following [https://www.semantics
 
 . *Eiffel: Inferring Input Ranges of Significant Floating-point Errors via Polynomial Extrapolation* \n
   *Zuoyan Zhang*, Bei Zhou, Jiangwei Hao, Hongru Yang, Mengqi Cui, Yuchang Zhou, Guanghui Song, Fei Li, Jinchen Xu, Jie Zhao\*.\n
-   In proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering. (*ASE 2023*)(Accepted) \[CCF-A\].\n
+   2023 38th IEEE/ACM International Conference on Automated Software Engineering. (*ASE*) \[CCF-A\].\n
+   \[[https://ieeexplore.ieee.org/document/10298397 pdf]\]
 . *Hierarchical search algorithm for error detection in floating-point arithmetic expressions* \n
   *Zuoyan Zhang*\#, Jinchen Xu\#, Jiangwei Hao, Yang Qu, Haotian He, Bei Zhou\*.\n
   The Journal of Supercomputing. \[CCF-C\].\n
@@ -51,11 +52,18 @@ Please find my full list of publications in the following [https://www.semantics
   \[[https://github.com/zuoyanzhang/HSED HSED]\] \n
 . *Detecting Floating-point Expression Errors based improved PSO Algorithm* \n
   Hongru Yang\#, Jinchen Xu\#, Jiangwei Hao, *Zuoyan Zhang*, Bei Zhou\*. \n 
-  IET Software (Accepted). \[CCF-B\]. \n
+  IET Software. \[CCF-B\]. \n
+  \[[https://pdfs.semanticscholar.org/e5cb/89990d9022b328e997ce1b6f7b7a39aa3f59.pdf?_gl=1*1q31ga5*_ga*MTc3MjI2OTg0NS4xNjkzMDU5Mzc1*_ga_H7P4ZT52H5*MTcwMjk0ODQxMy4zNi4xLjE3MDI5NDg3NzcuNTEuMC4w pdf]\] \n
+· *SCR-LIBM: A Correctly Rounded Elementary Function Library in Double-Precision* \n
+  Yang Qu, Jinchen Xu, Bei Zhou, Jiangwei Hao, Fei Li, *Zuoyan Zhang*. \n
+  International journal of software engineering and knowledge engineering (IJSEKE), accepted. \[CCF-C\]. \n
+  \[[https://www.worldscientific.com/doi/10.1142/S0218194023500675 pdf]\]
 
 == Scholarship
-. First Class Academic Scholarship: 2022 in Information Engineering University
-. Second Class Academic Scholarship: 2023 in Information Engineering University
+. National Scholarship: 2023 in Information Engineering University
+. First Class Academic Scholarship: 2023 in Information Engineering University
+. Second Class Academic Scholarship: 2022 in Information Engineering University
+. First Class Academic Scholarship: 2021 in Information Engineering University
 
 == Useful Links
 Deadlines: [https://ccfddl.github.io/ ccf-ddl] \n
