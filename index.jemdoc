@@ -17,13 +17,14 @@ I am currently a master student at Information Engineering University.
 
 My research interests span programming languages and software engineering, especially include:
 - Floating-point analysis
+- Program analysis and test
 - AI compiler
 - Large model
 
 ==  Educations
 
 - *Hunan University*
-I will be a PhD student at Hunan University in Aug 2024 under the supervision of Professor *Jie Zhao*.
+I will be a PhD student at Hunan University in Aug 2024 under the supervision of Professor [https://yaozhujia.github.io *Jie Zhao*].
 
 - *Information Engineering University*
 Master in State Key Laboratory of Mathematical Engineering and Advanced Computing, from September 2021 to June 2024 (Expected).
@@ -38,7 +39,7 @@ B.S. in School of Information Science and Engineering, from September 2017 to Ju
 == Selected Publications 
 
 Note: \* for corresponding author, \# for equal contribution. \n 
-Please find my full list of publications in the following [https://www.semanticscholar.org/author/Zuoyan-Zhang/2222347707 Link].
+The following only lists the papers for which I am the first author, please find my full list of publications in the following [https://www.semanticscholar.org/author/Zuoyan-Zhang/2222347707 Link].
 
 === Conferences and Journals
 
@@ -50,15 +51,7 @@ Please find my full list of publications in the following [https://www.semantics
   *Zuoyan Zhang*\#, Jinchen Xu\#, Jiangwei Hao, Yang Qu, Haotian He, Bei Zhou\*.\n
   The Journal of Supercomputing. \[CCF-C\].\n
   \[[https://link.springer.com/article/10.1007/s11227-023-05523-6 pdf]\]
-  \[[https://github.com/zuoyanzhang/HSED HSED]\] \n
-. *Detecting Floating-point Expression Errors based improved PSO Algorithm* \n
-  Hongru Yang\#, Jinchen Xu\#, Jiangwei Hao, *Zuoyan Zhang*, Bei Zhou\*. \n 
-  IET Software. \[CCF-B\]. \n
-  \[[https://pdfs.semanticscholar.org/e5cb/89990d9022b328e997ce1b6f7b7a39aa3f59.pdf?_gl=1*1q31ga5*_ga*MTc3MjI2OTg0NS4xNjkzMDU5Mzc1*_ga_H7P4ZT52H5*MTcwMjk0ODQxMy4zNi4xLjE3MDI5NDg3NzcuNTEuMC4w pdf]\] \n
-. *SCR-LIBM: A Correctly Rounded Elementary Function Library in Double-Precision* \n
-  Yang Qu\#, Jinchen Xu, Bei Zhou\*, Jiangwei Hao, Fei Li, *Zuoyan Zhang*. \n
-  International journal of software engineering and knowledge engineering (IJSEKE). \[CCF-C\]. \n
-  \[[https://www.worldscientific.com/doi/10.1142/S0218194023500675 pdf]\]
+  \[[https://github.com/zuoyanzhang/HSED HSED]\]
 
 == Scholarship
 . National Scholarship: 2023 in Information Engineering University
